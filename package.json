@@ -1,0 +1,23 @@
+{
+  "name": "guilded-file-splitter",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electron .",
+    "test": "npx electronmon ."
+  },
+  "author": "Rednexie",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "Split files in 500MB parts to store them on Guilded",
+  "devDependencies": {
+    "electron": "^31.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rednexie/guilded-file-splitter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rednexie/guilded-file-splitter/issues"
+  },
+  "homepage": "https://github.com/Rednexie/guilded-file-splitter#readme"
+}
