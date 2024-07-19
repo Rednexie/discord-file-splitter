@@ -22,7 +22,7 @@ While uploading and downloading a file just to split it might be a bit inefficie
 
 
 
-# Native Desktop App
+### Desktop App
 
 To install electron, you must have [node](https://nodejs.org) installed on your device. So you can install [electron](https://electronjs.org/)
 ```bash
@@ -31,6 +31,28 @@ npm i -g electron
 
 
 Note: This process could require sudo on linux devices.
+
+
+
+After installing the Electron framework, you then have to clone the github repository to your device. This can be done with the following command:
+
+```bash
+git clone https://https://github.com/Rednexie/discord-file-splitter
+```
+
+After the cloning is done, you then have to enter to the main project directory:
+
+```bash
+cd discord-file-splitter
+```
+
+You can run the application: 
+
+```
+npx electron .
+```
+
+
 
 
 
