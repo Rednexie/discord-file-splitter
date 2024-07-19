@@ -7,14 +7,14 @@ Discord File Splitter solves this problem by giving you the ability to split you
 
 <br><br>Discord File Splitter provides 3 interfaces for this functionality: <br><br>
 
-- [*Native Desktop App*](#app) 
+- [*Native Desktop App*](#desktop-app) 
 
   
 The dfs desktop app works on all desktop platforms thanks to electron.
 - [*Command Line Interface*](#cli)
 
   
-The cli is made for Android devices with Termux and Node.js installations.
+The cli is mainly made for Android devices with Termux and Node.js installations. This works well 
 - [*The Web Interface*](#web)
 
 
