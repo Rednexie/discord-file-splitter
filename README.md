@@ -14,7 +14,7 @@ The dfs desktop app works on all desktop platforms thanks to electron.
 - [*Command Line Interface*](#cli)
 
   
-The cli is mainly made for Android devices with Termux and Node.js installations. This works well 
+The cli is mainly made for Android devices with Termux and Node.js installations. This works well if you want to use dfs without electron.
 - [*The Web Interface*](#web)
 
 
