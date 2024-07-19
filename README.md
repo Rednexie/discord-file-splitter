@@ -8,7 +8,11 @@ Discord File Splitter solves this problem by giving you the ability to split you
 Discord File Splitter provides 3 interfaces for this functionality.
 
 - Native Desktop App
+
+  
 The dfs desktop app works on all desktop platforms thanks to electron.
 - Command Line Interface
+
+  
 The cli is made for Android devices with Termux and Node.js installations.
 - The Web Interface
