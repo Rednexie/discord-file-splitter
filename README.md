@@ -20,3 +20,18 @@ The cli is made for Android devices with Termux and Node.js installations.
 
 While uploading and downloading a file just to split it might be a bit inefficient, we suggest running the server on a local network to split files on mobile devices without installing any dependencies.
 
+
+
+# Native Desktop App
+
+To install electron, you must have [node](https://nodejs.org) installed on your device. So you can install [electron](https://electronjs.org/)
+```bash
+npm i -g electron
+```
+
+
+Note: This process could require sudo on linux devices.
+
+
+
+
