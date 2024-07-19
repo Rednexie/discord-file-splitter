@@ -5,7 +5,7 @@ Not everyone has a cloud file storage subscription, but we might have some files
 
 Discord File Splitter solves this problem by giving you the ability to split your file into parts that you can upload to discord. And when you need them, you can download and combine them so you can get the original file back without any data loss.
 
-Discord File Splitter provides 3 interfaces for this functionality: <br><br>
+<br><br>Discord File Splitter provides 3 interfaces for this functionality: <br><br>
 
 - [*Native Desktop App*](#app) 
 
