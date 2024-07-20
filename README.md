@@ -59,7 +59,7 @@ npx electron .
 
 ---
 
-### Command Line 
+### Command Line Interface
 
 To use dfs cli, you must have [node](https://nodejs.org) installed on your device.
 
@@ -91,4 +91,39 @@ To combine it again, you can run the following command:
 
 ```bash
 node . c Pardus-23.2-GNOME-amd64.iso.zip
+```
+
+
+<br>
+
+---
+
+# Web Server
+
+To run and use the dfs web interface, you must have [node](https://nodejs.org) installed on your device.
+
+
+You have to clone the web branch to your system:
+
+```bash
+git clone -b web https://https://github.com/Rednexie/discord-file-splitter
+```
+
+After the cloning is done, you then have to enter to the main project directory:
+
+```bash
+cd discord-file-splitter
+```
+
+You now have to install the dependencies of the system to run the webserver:
+
+```bash
+npm i
+```
+
+
+After the installation is complete, you can start the server on your desired port(default is 3000):
+
+```bash
+node .
 ```
