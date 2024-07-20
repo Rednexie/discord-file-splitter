@@ -20,7 +20,7 @@ The cli is mainly made for Android devices with Termux and Node.js installations
 
 While uploading and downloading a file just to split it might be a bit inefficient, we suggest running the server on a local network to split files on mobile devices without installing any dependencies.
 
----
+<br>---
 
 ### Desktop App
 
@@ -53,7 +53,7 @@ npx electron .
 ```
 
 
----
+<br>---
 
 ### Command Line 
 
