@@ -104,7 +104,7 @@ And you can use the script.
 
 
 
-For example to split a file named 'Pardus-23.2-GNOME-amd64.iso.zip! you can use the command:
+For example to split a file named 'Pardus-23.2-GNOME-amd64.iso.zip' you can use the command:
 
 ```
 node . s Pardus-23.2-GNOME-amd64.iso.zip
