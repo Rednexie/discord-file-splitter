@@ -54,6 +54,34 @@ npx electron .
 
 
 
+### Command Line 
+
+To use dfs cli, you must have [node](https://nodejs.org) installed on your device.
 
 
+You have to clone the cli branch to your system:
 
+```bash
+git clone -b cli https://https://github.com/Rednexie/discord-file-splitter
+```
+
+After the cloning is done, you then have to enter to the main project directory:
+
+```bash
+cd discord-file-splitter
+```
+
+And you can use the script.
+
+For example to split a file named _Pardus-23.2-GNOME-amd64.iso.zip_ you can use the command:
+
+```
+node . s Pardus-23.2-GNOME-amd64.iso.zip
+```
+
+
+To combine it again, you can run the following command:
+
+```bash
+node . c Pardus-23.2-GNOME-amd64.iso.zip
+```
