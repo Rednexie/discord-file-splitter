@@ -30,7 +30,7 @@ You can install the desktop app for your platform from your [installations](http
 
 
 
-You can install and use the cli from [npm](https://npmjs.com), the package manager for [node](https://nodejs.org]. Here's how:
+You can install and use the cli from [npm](https://npmjs.com), the package manager for [node](https://nodejs.org). Here's how:
 
 ```bash 
 npm i -g discord-fs
