@@ -8,7 +8,7 @@ let method = cliArgs.shift()?.replaceAll('-', '')
 const usageString = `Discord File Splitter\nnode ${path.basename(__filename)} <method> <file/s>`
 
 
-if(method.startsWith('d')) method = method.replace('d', '') + "d"
+if(method?.startsWith('d')) method = method.replace('d', '') + "d"
 
 
 if(!method || method.startsWith('h')){
