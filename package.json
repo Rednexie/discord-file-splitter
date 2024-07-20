@@ -1,14 +1,14 @@
 {
-  "name": "guilded-file-splitter",
+  "name": "discord-file-splitter",
   "version": "0.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "npx electron .",
     "test": "npx electronmon ."
   },
   "author": "Rednexie",
   "license": "SEE LICENSE IN LICENSE",
-  "description": "Split files in 500MB parts to store them on Guilded",
+  "description": "Split files in 25MB parts to store them on Discord",
   "devDependencies": {
     "electron": "^31.2.1"
   },
