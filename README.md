@@ -22,6 +22,10 @@ While uploading and downloading a file just to split it might be a bit inefficie
 
 <br>
 
+
+ # Manual Installations
+
+
 ---
 
 ### Desktop App
