@@ -127,3 +127,10 @@ After the installation is complete, you can start the server on your desired por
 ```bash
 node .
 ```
+
+
+
+## Possible Updates
+- Discord Integration: Providing the file/message link when file is uploaded
+- Logging: Saving the usage of the system
+- Auto Upload to Discord
