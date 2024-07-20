@@ -4,7 +4,7 @@ const path = require('path');
 function splitFile(filePath) {
     const fileStats = fs.statSync(filePath);
     const fileSize = fileStats.size;
-    const partSize = 500 * 1024 * 1024;
+    const partSize = 25 * 1024 * 1024;
 
     const numParts = Math.ceil(fileSize / partSize);
 
@@ -49,7 +49,7 @@ function combineFiles(filePaths) {
 async function splitFile_(filePath) {
     const fileStats = await fs.promises.stat(filePath);
     const fileSize = fileStats.size;
-    const partSize = 500 * 1024 * 1024;
+    const partSize = 25 * 1024 * 1024;
 
     const numParts = Math.ceil(fileSize / partSize);
 
